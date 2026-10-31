@@ -1,4 +1,4 @@
-# Rajashekar Jaadi — Vanilla Portfolio
+# Rajashekar Jaadi — Portfolio
 
 A responsive portfolio built with HTML, CSS and vanilla JavaScript. It does not require React, Node.js, npm, a bundler, or external libraries.
 
